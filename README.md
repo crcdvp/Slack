@@ -64,6 +64,7 @@ Following are some screenshots of various views you can get to in Slack.
     * **Gateways** - Set up Slack for use with IRC and XMPP. I don't think we'll ever need this
     * **Team Access Logs** - Tells you who signed up with what device at what time
 3. **Administration**
+    * **Signup Mode** - Choose which domains can join the team, or set it to invite only
     * **Settings** - Configure default channels, username display, message editing, integrations, stats, who can add emoji, loading messages, and slackbot responses, and information protection
     * **Team Members** - Shows a list of all current team members. Make people admins, remove accounts, and make accounts ["restricted"](http://i.imgur.com/EQwCGnR.png)
     * **Invitations** - Invite people to your team, or send them the invite link so they can add themselves
@@ -78,3 +79,14 @@ Getting a notification for every single message that is sent will quickly get ve
 * **Channel Specific Notifications:** "Everything" for the channel specific to your director position (Service is shown) and the channel titled "important"
 
 These settings will ensure that you will always receive messages that deserve your immediate attention while ignoring messages you don't need to see right away.
+
+### Channels
+
+The best part of Slack is the multiple channels that are available for people to use. With the initial creation of our Slack group, these are the current channels we have:
+
+* \#general, \#random
+* 1 channel for each director pair (6 in total)
+* \#announcements - for announcements (duh)
+* \#important - for important things (duh)
+
+Feel free to create your own channels as well! If Membership wants to create a channel specifically for Winter Retreat planning, then do that! If you want a channel to share pictures of cats wearing bread on their face, then do that! Once we no longer need the channel, we can always archive it.
